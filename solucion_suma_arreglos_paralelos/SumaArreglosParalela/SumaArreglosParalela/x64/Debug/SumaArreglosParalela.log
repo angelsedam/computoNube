@@ -1,0 +1,3 @@
+﻿  SumaArreglosParalela.cpp
+C:\Users\angel\OneDrive\Documentos\Tec\repos\computoNube\solucion_suma_arreglos_paralelos\SumaArreglosParalela\SumaArreglosParalela\SumaArreglosParalela.cpp(15,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  SumaArreglosParalela.vcxproj -> C:\Users\angel\OneDrive\Documentos\Tec\repos\computoNube\solucion_suma_arreglos_paralelos\SumaArreglosParalela\x64\Debug\SumaArreglosParalela.exe
